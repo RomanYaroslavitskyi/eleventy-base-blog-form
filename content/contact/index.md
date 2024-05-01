@@ -9,7 +9,7 @@ eleventyNavigation:
   <div class="row justify-content-center">
     <div class="col-lg-9">
       <h1 class="mb-3">Contact Us</h1>
-      <form methpd="POST" netlify name="contact">
+      <form methpd="POST" name="contact"  netlify>
         <div class="row g-3">
           <div class="col-md-6">
             <label for="your-name" class="form-label">Your Name</label>
